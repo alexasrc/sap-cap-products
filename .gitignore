@@ -1,6 +1,6 @@
 # CAP products
 _out
-*.db
+*.db 
 connection.properties
 default-*.json
 gen/

@@ -5,7 +5,7 @@
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
   "private": true,
-  "dependencies": {
+  "dependencies": { 
     "@sap/cds": "^3",
     "express": "^4"
   },
